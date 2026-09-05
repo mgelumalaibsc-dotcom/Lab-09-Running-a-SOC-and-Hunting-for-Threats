@@ -65,7 +65,9 @@ graph TD
 ## Screenshots
 
 ### 1. Hayabusa Execution and Summary
-*(Student: Insert your terminal screenshot here showing Hayabusa processing the EVTX logs and outputting the rule match summary)*
+<img width="1438" height="619" alt="image" src="https://github.com/user-attachments/assets/28eaffd9-1331-40ce-bef4-4bd5e1949d39" />
+<img width="1417" height="540" alt="image" src="https://github.com/user-attachments/assets/f9c1d607-3a7f-4e3d-b572-8de611420c29" />
+<img width="1464" height="544" alt="image" src="https://github.com/user-attachments/assets/b7385ace-988e-4985-afa3-e3ec68aaea16" />
 
 ### 2. CSV Threat Timeline Analysis
 *(Student: Insert a screenshot here of your spreadsheet application showing the parsed timeline and highlighting the detected malicious events)*

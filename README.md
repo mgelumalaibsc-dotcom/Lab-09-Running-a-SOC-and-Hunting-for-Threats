@@ -75,6 +75,8 @@ graph TD
 
 ### 2. CSV Threat Timeline Analysis
 *(Student: Insert a screenshot here of your spreadsheet application showing the parsed timeline and highlighting the detected malicious events)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3d32ff1-fdf1-4add-9814-e1fc5fb49dc2" />
+
 
 ---
 
